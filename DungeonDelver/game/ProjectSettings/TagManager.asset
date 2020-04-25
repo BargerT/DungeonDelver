@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wind Switch
+  - Wind Wall
+  - Wind Wall Camera
+  - Wind Chest
+  - Floor Door
+  - Fall
+  - Trap Door
+  - Next Level
+  - Teleporter
+  - Start Section
+  - Section 1
+  - Section 2
+  - Normal Sword
+  - Enemy 1
+  - Enemy 2
+  - Boss
+  - Stairs
+  - Key Chest
+  - Death
+  - Doorway
+  - Spawner
+  - Win Game
+  - Legendary Sword
+  - Chest
+  - Caster
+  - LevelBuilder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Room
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
